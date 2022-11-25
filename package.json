@@ -2,14 +2,23 @@
   "name": "new",
   "version": "1.0.0",
   "description": "",
-  "type": "module",
   "main": "server.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tushargupta25860/webpagefirebase.git"
+  },
+  "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tushargupta25860/webpagefirebase/issues"
+  },
+  "homepage": "https://github.com/tushargupta25860/webpagefirebase#readme",
   "dependencies": {
     "ejs": "^3.1.8",
     "express": "^4.18.2",
